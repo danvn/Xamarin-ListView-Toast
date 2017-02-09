@@ -1,0 +1,15 @@
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/bin/Debug/ListView_Toast.dll.mdb
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/bin/Debug/ListView_Toast.dll
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/bin/Debug/com.companyname.listview_toast.apk
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/obj/Debug/android/bin/com.companyname.listview_toast.apk
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/obj/Debug/res/layout/main.xml
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/obj/Debug/res/values/strings.xml
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/obj/Debug/R.cs.flag
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/bin/Debug/com.companyname.listview_toast-Signed.apk
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/obj/Debug/uploadflags.txt
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/obj/Debug/ListView_Toast.dll
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/obj/Debug/ListView_Toast.dll.mdb
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/bin/Debug/Xamarin.Android.Support.v13.dll
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/dannguyen/Google Drive/DevelopIntelligence/Module 3 - Cross-Platform Mobile Application Development with Xamarin/ListView_Toast/ListView_Toast/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll

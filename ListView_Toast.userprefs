@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B34F2749-DC27-4A21-AF3C-2D8A47E9206E}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListView__Toast AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.TestPhone" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ListView_Toast/MainActivity.cs" Line="13" Column="4" />
+      <File FileName="ListView_Toast/List.cs" Line="24" Column="6" />
+      <File FileName="ListView_Toast/ListItem.cs" Line="1" Column="1" />
+      <File FileName="ListView_Toast/ListItemAdapter.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
